@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hi, I'm Andy 👋
 
+<font size="3">I am currently a software engineer @ Atlassian, working on their product named Compass.
+
+Feel free to reach out:</font>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Andy%20Wong-0072b1?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andehwong/)
+[![Gmail Badge](https://img.shields.io/badge/-andywong.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andywong.dev@gmail.com)
 <!--
 **andehwong/andehwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
