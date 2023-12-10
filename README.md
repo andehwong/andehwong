@@ -1,6 +1,6 @@
 ## Hi, I'm Andy 👋
 
-<font size="3">I am currently a software engineer @ Atlassian, working on their product named Compass.
+<font size="3">I am currently a software engineer @ Atlassian. Previously was working on Compass. Currently working on greenfield projects.
 
 Feel free to reach out:</font>
 
